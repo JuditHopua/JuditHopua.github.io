@@ -1,0 +1,260 @@
+html {
+    scroll-behavior: smooth;
+}
+
+ol {
+    margin:0;
+    padding:0;
+    font-family: Lato
+}
+table td,table th {
+    padding:0
+}
+
+.c0 {
+    background-color:#ffffff;
+    max-width:504pt;
+    padding:36pt 54pt 36pt 54pt;
+    font-family: "Raleway";
+    font-size: 12px;
+}
+
+.foto {
+    width:125px; 
+    height:140px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    padding-top: 18px
+}
+
+.separador {
+    width: 418.00px;
+    height: 2.67px;
+    margin-left: 0.00px;
+    margin-top: 0.00px   
+}
+
+.c1 {
+    padding-top:0pt;
+    padding-bottom:0pt;
+    line-height:1.0;
+    text-align:left
+}
+
+.c2 {
+    font-size:10px
+}
+
+.c3 { 
+    border-right-style:solid;
+    padding:3.6pt 3.6pt 3.6pt 3.6pt;
+    border-bottom-color:#ffffff;
+    border-top-width:0pt;
+    border-right-width:0pt;
+    border-left-color:#ffffff;
+    vertical-align:top;
+    border-right-color:#ffffff;
+    border-left-width:0pt;
+    border-top-style:solid;
+    border-left-style:solid;
+    border-bottom-width:0pt;
+    width:176.3pt;
+    border-top-color:#ffffff;
+    border-bottom-style:solid
+}
+
+.c4 {
+    border-right-style:solid;
+    padding:5pt 5pt 5pt 5pt;
+    border-bottom-color:#ffffff;
+    border-top-width:0pt;
+    border-right-width:0pt;
+    border-left-color:#ffffff;
+    vertical-align:top;
+    border-right-color:#ffffff;
+    border-left-width:0pt;
+    border-top-style:solid;
+    border-left-style:solid;
+    border-bottom-width:0pt;
+    width:327.7pt;
+    border-top-color:#ffffff;
+    border-bottom-style:solid
+}
+
+.c5 {
+    font-weight:600;
+    text-decoration:none;
+    vertical-align:baseline;
+    font-style: normal
+}
+
+.c6 {
+    font-size: 8px;
+    color:#d44500;
+    padding-top: 8px;
+}
+
+.c7 {
+    height:182pt}
+
+.c10 {
+    font-size:14pt;
+    font-weight:700
+}
+
+.c13 {
+    height:0pt
+}
+
+.c15 {
+    padding-top:5pt;
+    padding-bottom:0pt;
+    line-height:1.0;
+    text-align:left
+}
+
+.c16 {
+    font-weight:700;
+    color: #666666;
+}
+
+.c17 {
+    padding-top:6pt;
+}
+
+.c18 {
+    padding-top:0pt;
+    line-height:1.15;
+    text-align:left
+}
+
+.c20 {
+    height:120pt
+}
+
+.c27 {
+    height:265pt
+}
+
+.c29 {
+    height:72pt
+}
+
+.c30 {
+    border-spacing:0;
+    border-collapse:collapse;
+    margin-right:auto
+}
+
+.title { 
+    padding-top:6pt;
+    color:#000000;
+    font-weight:700;
+    font-size:20pt;
+    padding-bottom:0pt;
+    font-family:"Raleway";
+    line-height:1.0;
+    page-break-after:avoid;
+    text-align:left
+}
+.subtitle {
+    padding-top:3pt;
+    color:#f2511b;
+    font-weight:700;
+    font-size:14pt;
+    padding-bottom:0pt;
+    font-family:"Raleway";
+    line-height:1.0;
+    page-break-after:avoid;
+    text-align:left
+}
+
+p {
+    margin:0;
+    color:#000000;
+    font-size:11pt;
+    font-family:"Lato"
+}
+h1 {
+    padding-top:4pt;
+    color:#000000;
+    font-weight:700;
+    font-size:12pt;
+    padding-bottom:0pt;
+    font-family:"Raleway";
+    line-height:1.15;
+    page-break-after:avoid;
+    text-align:left
+}
+h2 {
+    padding-top:6pt;
+    color:#000000;
+    font-weight:700;
+    font-size:11pt;
+    padding-bottom:0pt;
+    font-family:"Lato";
+    line-height:1.15;
+    page-break-after:avoid;
+    text-align:left
+}
+h3 {
+    padding-top:6pt;
+    color:#666666;
+    font-size:9pt;
+    padding-bottom:0pt;
+    font-family:"Lato";
+    line-height:1.15;
+    page-break-after:avoid;
+    text-align:left
+}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {
+    float: left;
+}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #f2511b;}
+
+ul.topnav li.right {float: right;}
+
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+.btn-scrolltop{
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+    padding: 15px 20px;
+    background: #f2511b;
+    color:#ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 100%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.flecha {
+    height: 15px;
+    width: 15px;
+}

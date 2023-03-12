@@ -1,0 +1,15 @@
+{
+    "background_color": "white",
+    "description": "Muestra un Curriculum Vitae con datos ficticios",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "icon/curriculum-vitae.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "name": "Curriculum Vitae",
+    "short_name": "CV",
+    "start_url": "/JuditHopua.github.io/index.html"
+  }

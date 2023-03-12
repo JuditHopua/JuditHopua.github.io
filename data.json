@@ -1,0 +1,58 @@
+{ 
+  "profesion": "Analista Programador",
+  "aptitudes": [
+    {"uno": "Experiencia en trabajar en equipos"},
+    {"dos": "Proactiva"},
+    {"tres": "Proactivo"},
+    {"cuatro": "Adaptable al cambio"},
+    {"cinco":"Creativa"},
+    {"seis":"Creativo"},
+    {"siete": "Conocimientos de C#, Python, Javascript, AngularJS, PHP"},
+    {"ocho": "Manejo de BBDD relacionales (SQL, SQlite, Firebird) y documentales (MongoDb)"},
+    {"nueve": "Implementaciones de páginas y sistemas web con Laravel, Kohana, Simfony y WordPress"},
+    {"diez": "Web scraping y TDD"}
+  ],
+  "experiencia":[
+    { "empresa":"JH Servicios Informáticos", "puesto":"analista programador", "desde":"sept. 2016", "hasta":"actualidad", "descripcion":"Asistencia técnica y mantenimiento de computadoras. Asesoramiento en sistemas de gestión administrativo contables. Diseño y desarrollo web. Desarrollo de sistemas de gestión a medida."},
+    { "empresa":"D.G.C. y E.", "puesto":"Encargado de Medios Administrativo, Técnico y Pedagógico de Informática - Nivel Secundaria Técnica", "desde":"sept. 2019", "hasta":"actualidad", "descripcion":"Mantenimiento de equipos informáticos. TICs. Robótica."},
+    { "empresa":"D.G.C. y E.", "puesto":"profesor", "desde":"mayo 2017", "hasta":"actualidad", "descripcion":"Espacio de Definición Institucional III: Informática aplicada a la Contabilidad del 3° año de la Tecnicatura Superior en Administración Contable del I.S.F.D. N°167."},
+    { "empresa":"D.G.C. y E.", "puesto":"profesor", "desde":"junio 2016", "hasta":"sept. 2021", "descripcion":"Introducción a la programación del 1° año de la Tecnicatura Superior en Comunicación Multimedial del I.S.F.D. y T. N°33."},
+    { "empresa":"D.G.C. y E.", "puesto":"profesor", "desde":"oct. 2020", "hasta":"nov. 2021", "descripcion":"Programación orientada a objetos de 2° año de Secundaria Técnica Agraria."},
+    { "empresa":"D.G.C. y E.", "puesto":"profesor", "desde":"marzo 2017", "hasta":"sept. 2021", "descripcion":"Informática en Secundaria y Secundaria de Adultos."},
+    { "empresa":"D.G.C. y E.", "puesto":"profesor", "desde":"sept.2020", "hasta":"mayo 2021", "descripcion":"Base de Datos del 2° año de la Tecnicatura Superior en Análisis de Sistemas del I.S.F.D. y T. N°33."},
+    { "empresa":"D.G.C. y E.", "puesto":"profesor", "desde":"mayo 2017", "hasta":"mar. 2019", "descripcion":"Computación aplicada a la Contabilidad del 2° año del Profesorado Superior de Educación Secundaria en Economía del I.S.F.D. N°167."},
+    { "empresa":"Eternet Sistemas", "puesto":"programador", "desde":"feb. 2018", "hasta":"mar. 2019", "descripcion":"Desarrollo e implementación de servicios de actualización para el sistema de gestión administrativo contable."},
+    { "empresa":"RDZ gimnasio", "puesto":"programador", "desde":"jul. 2016", "hasta":"sept.2016", "descripcion":"Análisis, desarrollo e implementación de un sistema de gestión de escritorio de cuentas corrientes de clientes y proveedores e información del dominio del negocio."},
+    { "empresa":"Cerealera Tres Arroyos S.A.", "puesto": "administrativo en cereales", "desde":"nov. 2012", "hasta":"sept.2016", "descripcion":"Administrativo comercialización de cereales y agronomía. Confección de cartas de porte. Logística. Liquidación y certificación de cereales, canjes por insumos, facturación de servicios e insumos. Informes AFIP y ONCCA. Informes de gestión. Cuentas corrientes. Pago a proveedores. Impuestos. Manejo de sistemas de gestión: Cerealtop y Agrosistemas."},
+    { "empresa":"Naranjo en flor", "puesto":"titular", "desde":"mayo 2008", "hasta":"nov. 2009", "descripcion":"Administración y venta de indumentaria en negocio propio. Caja y Bancos, pago a proveedores, inventarios."},
+    { "empresa":"Bressan S.A.", "puesto":"administrativo comercialización de cereales", "desde":"ago. 2004", "hasta":"dic. 2007", "descripcion":"Representante. Administrativo comercialización de cereales. Confección cartas de porte Logística. Liquidación de cereales, canje por insumos, retenciones. Cuentas corrientes. Pago a proveedores."},
+    { "empresa":"Nari Cereales S.R.L.", "puesto":"administrativo y comercial", "desde":"ene. 2001", "hasta":"jul. 2004", "descripcion":"Administrativo y comercial: comercialización de cereales. Operaciones en Mercado a Término de Buenos Aires. Futuros y opciones. Contratos Forward.Contratos a Fijar."},
+    { "empresa":"Estudio Contable Adrián Benítez", "puesto":"asistente administrativo", "desde":"ene. 1997", "hasta":"dic. 2000", "descripcion":"Tareas administrativas en general (cuentas corrientes, conciliaciones bancarias, proveedores, sistemas contables, liquidación IVA e IIBB, etc.). Información de gestión, control presupuestario. Estadísticas, cuadros comparativos."}
+  ],
+  "formacion":[
+    { "institucion":"Instituto Superior de Formación Docente y Técnica N°33", "titulo":"Especialización Docente de Nivel Superior en Escuelas y Cultura Digital", "desde":"mayo 2021", "hasta":"dic. 2021", "descripcion":"Tecnologías de la información"},
+    { "institucion":"Universidad de Ciencias Sociales y Empresariales", "titulo":"Tramo de Formación Pedagógica para el Nivel Medio", "desde":"2018", "hasta":"2019", "descripcion":"Educación Secundaria"},
+    { "institucion":"Universidad Nacional de La Plata", "titulo":"Analista Programador Universitario", "desde":"2011", "hasta":"2016", "descripcion":"Facultad de Informática"},
+    { "institucion":"Escuela Nacional Normal Abraham Lincoln", "titulo":"Perito Mercantil", "desde":"1983", "hasta":"1988", "descripcion":"Contabilidad y gestión empresarial"}
+  ],
+  "actualizaciones":[
+    { "institucion":"Instituto Nacional de Formación Docente", "titulo":"Curso Estrategias para la enseñanza de programación II", "desde":"oct. 2022", "hasta":"dic. 2022", "descripcion":"Programa Nacional de Formación Permanente Nuestra escuela. Programación con Pilas bloques y Scratch."},
+    { "institucion":"Instituo Nacional de Tecnología Industrial", "titulo":"Curso #SeProgramar", "desde":"sept. 2022", "hasta":"oct. 2022", "descripcion":"1ra. etapa del curso en el marco de Argentina Programa 4.0"},
+    { "institucion":"Instituto Nacional de Formación Docente", "titulo":"Curso Estrategias para la enseñanza de programación I", "desde":"jul. 2022", "hasta":"ago. 2022", "descripcion":"Programa Nacional de Formación Permanente Nuestra escuela. Programación con LightBot y Pilas bloques."},
+    { "institucion":"Dirección de Educación Tecnológica - Subsecretaría de Educación - Pcia. Bs. As.", "titulo":"Curso Herramientas técnico pedagógicas para el EMATP", "desde":"oct.2021", "hasta":"mayo 2022", "descripcion":" "},
+    { "institucion":"Instituto Nacional de Formación Docente", "titulo":"Curso Aulas virtuales en el Nivel Superior", "desde":"mayo 2021", "hasta":"abril 2022", "descripcion":" "},
+    { "institucion":"educ.ar Sociedad del Estado", "titulo":"Curso Introducción a Huayra", "desde":"oct. 2021", "hasta":"nov. 2021", "descripcion":" "},
+    { "institucion":"educ.ar Sociedad del Estado", "titulo":"Curso La creación de recursos interactivos con la herramienta H5P", "desde":"oct. 2021", "hasta":"nov. 2021", "descripcion":" "},
+    { "institucion":"Dirección de Tecnología Educativa - Subsecretaría de Educación - Pcia. Bs. As.", "titulo":"Curso Aulas del Bicentenario. Introducción a la enseñanza en el entorno virtual", "desde":"nov. 2020", "hasta":"dic. 2020", "descripcion":" "},
+    { "institucion":"Dirección Provincial de Educación Superior - Subsecretaría de Educación - Pcia. Bs. As.", "titulo":"Curso Conocimientos básicos de Moodle - Hacia una pedagogía de la virtualidad", "desde":"jul. 2020", "hasta":"nov. 2020", "descripcion":" "},
+    { "institucion":"Dirección Provincial de Educación Superior - Subsecretaría de Educación - Pcia. Bs. As.", "titulo":"Curso GNU/Linux - Una Introducción al software libre", "desde":"feb. 2018", "hasta":"mar. 2018", "descripcion":" "},
+    { "institucion":"Dirección Provincial de Educación Superior - Subsecretaría de Educación - Pcia. Bs. As.", "titulo":"Curso TIC en el aula: enseñar y aprender con celulares", "desde":"feb. 2018", "hasta":"mar. 2018", "descripcion":" "},
+    { "institucion":"Dirección Provincial de Formación Superior - Subsecretaría de Educación - Pcia. Bs. As.", "titulo":"Curso Imaginar, programar y compartir en la escuela", "desde":"feb. 2018", "hasta":"mar. 2018", "descripcion":" "},
+    { "institucion":"Universidad Nacional de La Plata - Facultad de Ciencias Exactas", "titulo":"Analista de Computación", "desde":"1990", "hasta":"1992", "descripcion":"52.60% de la carrera completa"},
+    { "institucion":"Universidad Nacional de La Plata - Facultad de Ciencias Exactas", "titulo":"Licenciatura en Informática", "desde":"1989", "hasta":"1992", "descripcion":"56% de la carrera completa"}
+  ],
+  "idiomas":[
+    { "nombre": "Inglés", "nivel": "Intermedio"},
+    { "nombre": "Español", "nivel": "Nativo"}
+  ]
+}
