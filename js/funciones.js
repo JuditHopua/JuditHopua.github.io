@@ -196,7 +196,7 @@ btn_scrolltop.addEventListener('click', () => {
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-      .register('/JuditHopua.github.io/js/sw.js')
+      .register('/js/sw.js')
       .then(() => { console.log('Service Worker Registrado'); });
   }
   

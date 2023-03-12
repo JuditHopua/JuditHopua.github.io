@@ -1,0 +1,1 @@
+Proyecto final del curso "Primeros pasos del desarrollo frontend". Desarrollo de un Curriculum Vitae con datos ficticios
